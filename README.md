@@ -1,5 +1,7 @@
 # validation-sncf-transilien
 
+Accéder à la structure des données de validation : https://dl.orangedox.com/z4N1C3
+
 La mobilité des voyageurs peut être appréhendée avec les données de validations, c’est-à-dire à partir des informations relatives au passage d’une carte ou d’un ticket à un valideur (date, heure, nature, lieu, etc.). Deux types de valideurs co-existent :
 
 - Les CAB, qui constituent une ligne fermée à franchir en validant pour accéder au quai. Ils permettent de remonter les validations télébilletiques et magnétiques. Il existe deux types de CAB :
